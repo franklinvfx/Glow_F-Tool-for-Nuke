@@ -1,4 +1,4 @@
-# Glow_F-Tool-for-Nuke
+# Glow_F
 <strong>To create a more natural Glow than the original native nuke glow (Exponential Glow).</strong>
 
 One more of a simple setup of blur nodes with exponentially increasing size, to get a more realistic looking result.
